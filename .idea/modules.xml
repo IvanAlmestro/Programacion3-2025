@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/TP2.1-Arboles/TP2.1-Arboles.iml" filepath="$PROJECT_DIR$/TP2.1-Arboles/TP2.1-Arboles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP4-Grafos/TP4-Grafos.iml" filepath="$PROJECT_DIR$/TP4-Grafos/TP4-Grafos.iml" />
       <module fileurl="file://$PROJECT_DIR$/programacion3.iml" filepath="$PROJECT_DIR$/programacion3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tp2.1/tp2.1.iml" filepath="$PROJECT_DIR$/tp2.1/tp2.1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tp4/tp4.iml" filepath="$PROJECT_DIR$/tp4/tp4.iml" />
     </modules>
   </component>
 </project>
