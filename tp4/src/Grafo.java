@@ -1,8 +1,8 @@
 
+
 import java.util.Iterator;
 
 public interface Grafo<T> {
-
     // Agrega un vertice
     public void agregarVertice(int verticeId);
 
@@ -41,6 +41,4 @@ public interface Grafo<T> {
 
     // Obtiene un iterador que me permite recorrer todos los arcos que parten desde verticeId
     public Iterator<Arco<T>> obtenerArcos(int verticeId);
-
-
 }
