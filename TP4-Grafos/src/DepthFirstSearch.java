@@ -1,3 +1,8 @@
+/*Ejercicio 2
+Implemente los recorridos Depth-First-Search y Breadth-First-Search.
+Ejercicio 3
+Implemente un algoritmo que determine si un grafo dirigido tiene algún ciclo.
+*/
 import java.util.HashMap;
 import java.util.Iterator;
 //revisado por profe
@@ -37,6 +42,7 @@ public class DepthFirstSearch {
             if(colores.get(verticeAdy) == Color.BLANCO) {
                 DFS_Visit(grafo, verticeAdy);
             }
+
             // si ya estaba visitado(color amarillo) signfica que hay un ciclo.
             else if (colores.get(verticeAdy) ==Color.AMARILLO) {
                 hayCiclo = true;

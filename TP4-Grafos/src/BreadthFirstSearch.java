@@ -1,5 +1,6 @@
 import com.sun.source.tree.WhileLoopTree;
-
+/*Ejercicio 2
+Implemente los recorridos Depth-First-Search y Breadth-First-Search.*/
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.LinkedList;
